@@ -11,7 +11,7 @@
 |-------|--------------|---------|-----------------|
 |1 - Foundations|Recipes|[Recipes](https://github.com/lburscheidt/odin-recipes)|[Recipes](https://lburscheidt.github.io/tasty-recipes/)|
 |1 - Foundations|Rock Paper Scissors|[Rock Paper Scissors](https://github.com/lburscheidt/rock-paper-scissors)|[Rock Paper Scissors](https://lburscheidt.github.io/rock-paper-scissors/)|
-|1 - Foundations|Landing Page|[Landing Page](https://github.com/lburscheidt/fabulous-flexbox-landing-page)|[Landing Page](https://lburscheidt.github.io/fabulous-flexbox-landing-page/)|
+|1 - Foundations|Landing Page|[Landing Page](https://github.com/lburscheidt/landing-page)|[Landing Page](https://lburscheidt.github.io/landing-page/)|
 |1 - Foundations|Etch-a-Sketch|[Etch-a-Sketch](https://github.com/lburscheidt/etch-a-sketch)|[Etch-a-Sketch](https://lburscheidt.github.io/etch-a-sketch/)|
 |1 - Foundations|Calculator|[Calculator](https://github.com/lburscheidt/calculator)|[Calculator](https://lburscheidt.github.io/calculator/)|
 |2 - Intermediate HTML & CSS|Sign-up Form|[Sign-up Form](https://github.com/lburscheidt/smooth-solid-signup-form)|[Sign-up Form](https://lburscheidt.github.io/smooth-solid-signup-form/)|
