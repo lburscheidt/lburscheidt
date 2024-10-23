@@ -16,7 +16,7 @@
 |1 - Foundations|Calculator|[Calculator](https://github.com/lburscheidt/calculator)|[Calculator](https://lburscheidt.github.io/calculator/)|
 |2 - Intermediate HTML & CSS|Sign-up Form|[Sign-up Form](https://github.com/lburscheidt/sign-up-form)|[Sign-up Form](https://lburscheidt.github.io/sign-up-form/)|
 |3 - JavaScript|Tic Tac Toe|[Tic Tac Toe](https://github.com/lburscheidt/tic-tac-toe/)|[Tic Tac Toe](https://lburscheidt.github.io/tic-tac-toe/)
-|3 - JavaScript|Library|[Library](https://github.com/lburscheidt/legendary-little-library)|[Library](https://lburscheidt.github.io/legendary-little-library/)
+|3 - JavaScript|Library|[Library](https://github.com/lburscheidt/library)|[Library](https://lburscheidt.github.io/library/)
 <!---
 lburscheidt/lburscheidt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
