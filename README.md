@@ -1,3 +1,4 @@
+# About
 - 👋 Hi, I’m @lburscheidt
 - 👀 I’m interested in web development and design. I'm passionate about making online apps accessible and intuitive to use for as many humans as possible as well as beautiful.
 - 🌱 I’m currently learning front end development via The Odin Project. I'm also a bit of a tinkerer and have a bunch of tech wired up in my place... an old laptop running Ubuntu, a couple of Raspberry Pis as my own cloud storage and adblocking system - you get the idea. 
@@ -5,7 +6,9 @@
 - 📫 How to reach me: email me here!
 - 😄 Pronouns: They/them or he/him.
 - ⚡ Fun fact: I lived in London for a long time.
-- I am currently working through The Odin Project. Here are all the projects I've created for it so far.
+- I am currently working through The Odin Project and freeCodeCamp. Here are all the projects I've created for it so far.
+
+## The Odin Project
 
 |Course | Project Name | My Code | My Live Preview |
 |-------|--------------|---------|-----------------|
@@ -18,6 +21,12 @@
 |3 - JavaScript|Library|[Library](https://github.com/lburscheidt/library)|[Library](https://lburscheidt.github.io/library/)
 |3 - JavaScript|Tic Tac Toe|[Tic Tac Toe](https://github.com/lburscheidt/tic-tac-toe/)|[Tic Tac Toe](https://lburscheidt.github.io/tic-tac-toe/)
 |3 - JavaScript|Restaurant|[Restaurant](https://github.com/lburscheidt/restaurant)|[Restaurant](https://lburscheidt.github.io/restaurant/)
+
+## freeCodeCamp
+|Course | Project Name | My Code | My Live Preview |
+|-------|--------------|---------|-----------------|
+|2 - JavaScript Algorithms & Data Structures|Pokémon Search App|[Pokémon Search App](https://github.com/lburscheidt/pokemon-search-app)|[Pokémon Search App](https://lburscheidt.github.io/pokemon-search-app/)
+
 <!---
 lburscheidt/lburscheidt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
