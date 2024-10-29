@@ -25,7 +25,7 @@
 ## freeCodeCamp
 |Course | Project Name | My Code | My Live Preview |
 |-------|--------------|---------|-----------------|
-|2 - JavaScript Algorithms & Data Structures|Palindrome Checker|[Palindrome Checker]([https://github.com/lburscheidt/pokemon-search-app](https://github.com/lburscheidt/palindrome-checker))|[Palindrome Checker]([https://lburscheidt.github.io/pokemon-search-app/](https://lburscheidt.github.io/palindrome-checker/))
+|2 - JavaScript Algorithms & Data Structures|Palindrome Checker|[Palindrome Checker](https://github.com/lburscheidt/palindrome-checker)|[Palindrome Checker](https://lburscheidt.github.io/palindrome-checker/)
 |2 - JavaScript Algorithms & Data Structures|Pokémon Search App|[Pokémon Search App](https://github.com/lburscheidt/pokemon-search-app)|[Pokémon Search App](https://lburscheidt.github.io/pokemon-search-app/)
 
 <!---
