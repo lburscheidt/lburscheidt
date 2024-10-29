@@ -23,11 +23,14 @@
 |3 - JavaScript|Restaurant|[Restaurant](https://github.com/lburscheidt/restaurant)|[Restaurant](https://lburscheidt.github.io/restaurant/)
 
 ## freeCodeCamp
+
 |Course | Project Name | My Code | My Live Preview |
 |-------|--------------|---------|-----------------|
 |2 - JavaScript Algorithms & Data Structures|Palindrome Checker|[Palindrome Checker](https://github.com/lburscheidt/palindrome-checker)|[Palindrome Checker](https://lburscheidt.github.io/palindrome-checker/)
 |2 - JavaScript Algorithms & Data Structures|Telephone Number Validator|[Telephone Number Validator](https://github.com/lburscheidt/telephone-number-validator)|[Telephone Number Validator](https://lburscheidt.github.io/telephone-number-validator/)
 |2 - JavaScript Algorithms & Data Structures|Pokémon Search App|[Pokémon Search App](https://github.com/lburscheidt/pokemon-search-app)|[Pokémon Search App](https://lburscheidt.github.io/pokemon-search-app/)
+
+
 
 <!---
 lburscheidt/lburscheidt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
