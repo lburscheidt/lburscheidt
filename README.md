@@ -21,6 +21,7 @@
 |3 - JavaScript|Library|[Library](https://github.com/lburscheidt/library)|[Library](https://lburscheidt.github.io/library/)
 |3 - JavaScript|Tic Tac Toe|[Tic Tac Toe](https://github.com/lburscheidt/tic-tac-toe/)|[Tic Tac Toe](https://lburscheidt.github.io/tic-tac-toe/)
 |3 - JavaScript|Restaurant|[Restaurant](https://github.com/lburscheidt/restaurant)|[Restaurant](https://lburscheidt.github.io/restaurant/)
+|3 - JavaScript|To-Do List|[To-Do List](https://github.com/lburscheidt/my-todolist)|[To-Do List](https://lburscheidt.github.io/my-todolist/)
 |3 - JavaScript|Weather App|[Weather App](https://github.com/lburscheidt/weather-visual-crossing/)|[Weather App](https://lburscheidt.github.io/weather-visual-crossing/)
 
 ## freeCodeCamp
