@@ -23,6 +23,7 @@
 |3 - JavaScript|Restaurant|[Restaurant](https://github.com/lburscheidt/restaurant)|[Restaurant](https://lburscheidt.github.io/restaurant/)
 |3 - JavaScript|To-Do List|[To-Do List](https://github.com/lburscheidt/my-todolist)|[To-Do List](https://lburscheidt.github.io/my-todolist/)
 |3 - JavaScript|Weather App|[Weather App](https://github.com/lburscheidt/weather-visual-crossing/)|[Weather App](https://lburscheidt.github.io/weather-visual-crossing/)
+|3 - JavaScript|Form validation with JavaScript|[Form Validation with JavaScript](https://github.com/lburscheidt/formvalidation-with-js)|[Form Validation with JavaScript](https://lburscheidt.github.io/formvalidation-with-js/)
 
 ## freeCodeCamp
 
