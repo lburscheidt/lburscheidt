@@ -34,6 +34,7 @@
 |2 - JavaScript Algorithms & Data Structures|Roman Numeral Converter|[Roman Numeral Converter](https://github.com/lburscheidt/roman-numeral-converter)|[Roman Numeral Converter](https://lburscheidt.github.io/roman-numeral-converter/)|
 |2 - JavaScript Algorithms & Data Structures|Telephone Number Validator|[Telephone Number Validator](https://github.com/lburscheidt/telephone-number-validator)|[Telephone Number Validator](https://lburscheidt.github.io/telephone-number-validator/)
 |2 - JavaScript Algorithms & Data Structures|Pokémon Search App|[Pokémon Search App](https://github.com/lburscheidt/pokemon-search-app)|[Pokémon Search App](https://lburscheidt.github.io/pokemon-search-app/)
+|3 - Front End Development Libraries|Random Quote Machine|[Random Quote Machine](https://github.com/lburscheidt/quote-machine)|[Random Quote Machine](https://lburscheidt.github.io/quote-machine/)
 
 
 
