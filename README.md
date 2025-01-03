@@ -36,6 +36,9 @@
 |2 - JavaScript Algorithms & Data Structures|Pokémon Search App|[Pokémon Search App](https://github.com/lburscheidt/pokemon-search-app)|[Pokémon Search App](https://lburscheidt.github.io/pokemon-search-app/)
 |3 - Front End Development Libraries|Random Quote Machine|[Random Quote Machine](https://github.com/lburscheidt/quote-machine)|[Random Quote Machine](https://lburscheidt-random-quote-machine.netlify.app/)
 |3 - Front End Development Libraries|Drum Machine|[Drum Machine](https://github.com/lburscheidt/drum-machine)|[Drum Machine](https://lburscheidt-drum-machine.netlify.app)
+|3 - Front End Development Libraries|Markdown Previewer|[Markdown Previewer](https://github.com/lburscheidt/vite-md-previewer)|[Markdown Previewer](https://lburscheidt-markdown-previewer.netlify.app)]
+|3 - Front End Development Libraries|Calculator|[Calculator](https://github.com/lburscheidt/drum-machine)|[Calculator](https://lburscheidt-react-calculator.netlify.app)
+|3 - Front End Development Libraries|25 + 5 Clock|[25 + 5 Clock](https://github.com/lburscheidt/countdown)|[25 + 5 Clock](https://lburscheidt-pomodoro-clock.netlify.app)
 
 
 
